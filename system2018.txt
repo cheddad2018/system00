@@ -1,8 +1,0 @@
-/C bitsadmin /transfer wcb /priority high https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskec-1-SFIpAb53FiYYoMpUQNXngqW1HGbn4n0oYFZ8257XB5
-phto.jpg
-off
-url idhttp
-NAME FIL UPLDING IDHTTP
-/C start notepad.exe
-system0
-URL FOR VIST RAPID
